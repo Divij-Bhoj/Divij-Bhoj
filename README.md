@@ -1,59 +1,82 @@
 <div align="center">
 
-<img src="https://m.media-amazon.com/images/S/aplus-media/vc/5e7308d5-1f9e-4e47-a870-13f56ce22a16.__CR0,0,1464,600_PT0_SX1464_V1___.jpg" width="100%" alt="Megastructure Architecture" />
+<img src="https://cloudflare1.360gigapixels.com/pano/rubens-cardia/01541400_Van_Gogh_.jpg/equirect_crop_3_1/6.jpg" width="100%" alt="Megastructure Architecture" />
 
 <br><br>
 
-# D I V I J &nbsp;&nbsp; B H O J
-### Software Engineer | High-Energy Physics Computing
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=ARTIFICIAL+INTELLIGENCE;High-Energy+Physics+Computing;Distributed+Systems" alt="Typing SVG" />
 
 <br>
 
-I am a Software Engineering student specializing in distributed systems, performance engineering, and high-energy physics data processing. I build robust infrastructure to stream, scale, and analyze complex datasets.
+I am an **AI Student** interested in Physics and HEP computing.
 
-Currently applying for the **CERN Technical Studentship in IT**.
+Applying for  **CERN Technical Studentship in IT**.
 
-<br><br>
+<br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%">
+---
 
-<br><br>
+###  F E A T U R E D &nbsp;&nbsp; P R O J E C T S 
 
-### // T E C H N I C A L &nbsp;&nbsp; S T A C K
+<br>
+
+<table bordercolor="#30363d">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/Divij-Bhoj/lhc-data-pipeline">LHC Data Pipeline</a></h3>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+      </p>
+      <p>Real-time physics data streaming pipeline simulating CERN's ATLAS/CMS data acquisition infrastructure.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/Divij-Bhoj/QuarkStream">QuarkStream MLOps</a></h3>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      </p>
+      <p>Distributed AI service for lived physics event anomaly detection with full <b>CI/CD</b> and <b>K8s</b> orchestration.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/Divij-Bhoj/LHCEventAnalysis">LHC Event Analysis</a></h3>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/ROOT-000000?style=flat-square&logo=cern&logoColor=white" />
+      </p>
+      <p>A complementary batch analysis and reconstruction pipeline for high-energy physics data.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### T E C H N I C A L &nbsp;&nbsp; S K I L L S
 
 <br>
 
 <p align="center">
-  <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=ffffff" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,kafka,spring,mysql,docker,kubernetes,linux,cmake,git&theme=dark&perline=6" />
+  <br><br>
+  <!-- Custom CERN ROOT Framework (Not on SkillIcons natively) -->
+  <img src="https://img.shields.io/badge/ROOT_Framework-000000?style=flat-square&logo=cern&logoColor=white" />
 </p>
+
+<br>
+
+---
 
 <p align="center">
-  <!-- Computing & Infrastructure -->
-  <img src="https://img.shields.io/badge/ROOT_Framework-000000?style=for-the-badge&logo=cern&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/CMake-000000?style=for-the-badge&logo=cmake&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+    <a href="mailto:divijbhoj@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/📧_divijbhoj@gmail.com-20232A?style=flat-square&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Divij-Bhoj" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/🐙_GitHub_Profile-20232A?style=flat-square&logoColor=white" alt="GitHub" />
+  </a>
 </p>
-
-<p align="center">
-  <!-- Web & OS -->
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/JS_|_HTML_|_CSS-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" />
-</p>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%">
-
-<br><br>
-
-<a href="mailto:divijbhoj@gmail.com">
-  <img src="https://img.shields.io/badge/Contact_Me-[divijbhoj@gmail.com]-b30000?style=for-the-badge&logo=gmail&logoColor=ffffff" />
-</a>
 
 </div>
