@@ -23,34 +23,41 @@ Applying for  **CERN Technical Studentship in IT**.
 <table bordercolor="#30363d">
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center"><a href="https://github.com/Divij-Bhoj/lhc-data-pipeline">LHC Data Pipeline</a></h3>
-      <br>
+      <h3 align="center"><a href="https://github.com/Divij-Bhoj/LHC-data-pipeline">LHC Data Pipeline</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/github/actions/workflow/status/Divij-Bhoj/LHC-data-pipeline/ci.yml?branch=master&label=CI&style=flat-square" />
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
       </p>
-      <p>Real-time physics data streaming pipeline simulating CERN's ATLAS/CMS data acquisition infrastructure.</p>
+      <p>Real-time physics data streaming pipeline simulating CERN's ATLAS/CMS data acquisition infrastructure. Implements high-level trigger logic and live monitoring.</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center"><a href="https://github.com/Divij-Bhoj/QuarkStream">QuarkStream MLOps</a></h3>
-      <br>
+      <p align="center">
+        <img src="https://img.shields.io/github/actions/workflow/status/Divij-Bhoj/QuarkStream/ci.yml?branch=master&label=CI&style=flat-square" />
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
       </p>
-      <p>Distributed AI service for lived physics event anomaly detection with full <b>CI/CD</b> and <b>K8s</b> orchestration.</p>
+      <p>Distributed AI service for real-time physics anomaly detection. Uses ONNX Runtime for high-performance inference on streaming telemetry.</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center"><a href="https://github.com/Divij-Bhoj/LHCEventAnalysis">LHC Event Analysis</a></h3>
-      <br>
       <p align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/ROOT-000000?style=flat-square&logo=cern&logoColor=white" />
+        <img src="https://img.shields.io/github/actions/workflow/status/Divij-Bhoj/LHCEventAnalysis/ci.yml?branch=main&label=CI&style=flat-square" />
       </p>
-      <p>A complementary batch analysis and reconstruction pipeline for high-energy physics data.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ROOT-000000?style=flat-square&logo=cern&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenMP-FF9900?style=flat-square&logo=openmp&logoColor=white" />
+      </p>
+      <p>Parallelized C++/ROOT framework for batch physics analysis. Demonstrates multi-threaded event reconstruction and statistical fitting.</p>
     </td>
   </tr>
 </table>
+
 
 <br>
 
