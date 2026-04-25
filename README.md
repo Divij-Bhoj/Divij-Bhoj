@@ -8,10 +8,7 @@
 
 <br>
 
-I am an **AI Student** interested in Physics and HEP computing.
-
-Applying for  **CERN Technical Studentship in IT**.
-
+I am an **AI Student** interested in AI, Physics and HEP computing.
 <br>
 
 ---
