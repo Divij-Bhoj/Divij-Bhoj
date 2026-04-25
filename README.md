@@ -8,7 +8,7 @@
 
 <br>
 
-I am an **AI Student** interested in AI, Physics and HEP computing.
+I am an **AI Student** interested in ML/DL, Physics and HEP computing.
 <br>
 
 ---
